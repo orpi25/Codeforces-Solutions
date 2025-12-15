@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/1866/A
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -20,3 +21,4 @@ int main() {
     cout << minimumAbsoluteValue << endl;
     return 0;
 }
+
